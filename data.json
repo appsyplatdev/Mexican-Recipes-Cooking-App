@@ -1678,31 +1678,6 @@
       ],
       "garnish": "Cinnamon",
       "premium": false
-   },
-    {
-      {
-  "cocktails": [
-    {
-      "id": "70",
-      "title": "Sweet Corn Snacks",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1505253716362-afaea6fc1233?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Cup",
-      "ingredients": [
-        "Corn",
-        "Butter",
-        "Sugar"
-      ],
-      "steps": [
-        "Cook corn",
-        "Add butter and sugar",
-        "Serve warm"
-      ],
-      "garnish": "Cinnamon",
-      "premium": false
     },
     {
       "id": "71",
