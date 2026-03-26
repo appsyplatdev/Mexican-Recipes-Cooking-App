@@ -743,17 +743,6 @@
       "premium": false
     },
     {
-      {
-  "categories": [
-    { "id": "all", "name": "All", "icon": "🍽️" },
-    { "id": "meals", "name": "Meals", "icon": "🌮" },
-    { "id": "drinks", "name": "Drinks", "icon": "🥤" },
-    { "id": "desserts", "name": "Desserts", "icon": "🍮" },
-    { "id": "dips", "name": "Dips", "icon": "🌶️" },
-    { "id": "snacks", "name": "Snacks", "icon": "🥙" }
-  ],
-  "cocktails": [
-    {
       "id": "31",
       "title": "Shrimp Tacos",
       "category": "meals",
