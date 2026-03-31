@@ -510,480 +510,479 @@
     },
     {
       "id": "21",
-      "title": "Michelada",
-      "category": "drinks",
-      "image": "https://images.unsplash.com/photo-1600891963935-9f3d8b4c6b79?w=800",
-      "prepTime": 5,
-      "difficulty": "Easy",
-      "alcoholContent": "Low",
-      "glassType": "Glass",
-      "ingredients": [
-        "Beer",
-        "Lime juice",
-        "Hot sauce",
-        "Salt"
-      ],
-      "steps": [
-        "Add lime juice to glass",
-        "Add hot sauce and salt",
-        "Pour beer",
-        "Stir gently"
-      ],
-      "garnish": "Salt rim",
-      "premium": false
-    },
-    {
-      "id": "22",
-      "title": "Tamarind Drink",
-      "category": "drinks",
-      "image": "https://images.unsplash.com/photo-1582450871972-ab5ca641643d?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Glass",
-      "ingredients": [
-        "Tamarind pulp",
-        "Water",
-        "Sugar"
-      ],
-      "steps": [
-        "Mix tamarind with water",
-        "Add sugar",
-        "Chill",
-        "Serve cold"
-      ],
-      "garnish": "Mint leaves",
-      "premium": false
-    },
-    {
-      "id": "23",
-      "title": "Mexican Coffee",
-      "category": "drinks",
-      "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Mug",
-      "ingredients": [
-        "Coffee",
-        "Cinnamon",
-        "Sugar"
-      ],
-      "steps": [
-        "Brew coffee",
-        "Add cinnamon and sugar",
-        "Stir well",
-        "Serve hot"
-      ],
-      "garnish": "Cinnamon stick",
-      "premium": false
-    },
-    {
-      "id": "24",
-      "title": "Tres Leches Cake",
-      "category": "desserts",
-      "image": "https://images.unsplash.com/photo-1621303837174-89787a7d4729?w=800",
-      "prepTime": 45,
-      "difficulty": "Medium",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Cake base",
-        "Condensed milk",
-        "Evaporated milk",
-        "Heavy cream"
-      ],
-      "steps": [
-        "Bake the cake",
-        "Soak with milk mixture",
-        "Chill",
-        "Serve"
-      ],
-      "garnish": "Whipped cream",
-      "premium": true
-    },
-    {
-      "id": "25",
-      "title": "Arroz con Leche",
-      "category": "desserts",
-      "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=800",
-      "prepTime": 30,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Bowl",
-      "ingredients": [
-        "Rice",
-        "Milk",
-        "Sugar",
-        "Cinnamon"
-      ],
-      "steps": [
-        "Cook rice",
-        "Add milk and sugar",
-        "Simmer until creamy",
-        "Serve warm or cold"
-      ],
-      "garnish": "Cinnamon powder",
-      "premium": false
-    },
-    {
-      "id": "26",
-      "title": "Queso Dip",
-      "category": "dips",
-      "image": "https://images.unsplash.com/photo-1585238342028-4c8d5b8fbd9d?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Bowl",
-      "ingredients": [
-        "Cheese",
-        "Milk",
-        "Chili"
-      ],
-      "steps": [
-        "Melt cheese",
-        "Add milk",
-        "Mix chili",
-        "Serve warm"
-      ],
-      "garnish": "Chopped jalapeños",
-      "premium": false
-    },
-    {
-      "id": "27",
-      "title": "Bean Dip",
-      "category": "dips",
-      "image": "https://images.unsplash.com/photo-1617191519105-d07b98b10de6?w=800",
-      "prepTime": 15,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Bowl",
-      "ingredients": [
-        "Beans",
-        "Cheese",
-        "Spices"
-      ],
-      "steps": [
-        "Mash beans",
-        "Heat with cheese",
-        "Season",
-        "Serve"
-      ],
-      "garnish": "Cheese topping",
-      "premium": false
-    },
-    {
-      "id": "28",
-      "title": "Taquitos",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?w=800",
-      "prepTime": 20,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Tortillas",
-        "Chicken",
-        "Oil"
-      ],
-      "steps": [
-        "Fill tortillas",
-        "Roll tightly",
-        "Fry until crispy",
-        "Serve"
-      ],
-      "garnish": "Guacamole",
-      "premium": false
-    },
-    {
-      "id": "29",
-      "title": "Tostadas",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800",
-      "prepTime": 15,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Tostada shells",
-        "Beans",
-        "Lettuce",
-        "Cheese"
-      ],
-      "steps": [
-        "Spread beans on tostadas",
-        "Add toppings",
-        "Serve immediately"
-      ],
-      "garnish": "Crema",
-      "premium": false
-    },
-    {
-      "id": "30",
-      "title": "Mexican Street Corn Cups",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1505253716362-afaea6fc1233?w=800",
-      "prepTime": 15,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Cup",
-      "ingredients": [
-        "Corn",
-        "Mayo",
-        "Cheese",
-        "Chili powder"
-      ],
-      "steps": [
-        "Cook corn",
-        "Mix with mayo and cheese",
-        "Add chili powder",
-        "Serve warm"
-      ],
-      "garnish": "Lime juice",
-      "premium": false
-    },
-    {
-      "id": "31",
-      "title": "Shrimp Tacos",
-      "category": "meals",
-      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=800",
-      "prepTime": 20,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Shrimp",
-        "Tortillas",
-        "Cabbage",
-        "Lime",
-        "Sauce"
-      ],
-      "steps": [
-        "Cook shrimp",
-        "Prepare toppings",
-        "Assemble tacos",
-        "Serve immediately"
-      ],
-      "garnish": "Lime wedges",
-      "premium": false
-    },
-    {
-      "id": "32",
-      "title": "Mexican Rice",
-      "category": "meals",
-      "image": "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?w=800",
-      "prepTime": 25,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Bowl",
-      "ingredients": [
-        "Rice",
-        "Tomato sauce",
-        "Garlic",
-        "Onion"
-      ],
-      "steps": [
-        "Toast rice",
-        "Add sauce and water",
-        "Simmer until cooked",
-        "Fluff and serve"
-      ],
-      "garnish": "Fresh cilantro",
-      "premium": false
-    },
-    {
-      "id": "33",
-      "title": "Refried Beans",
-      "category": "meals",
-      "image": "https://images.unsplash.com/photo-1617191519105-d07b98b10de6?w=800",
-      "prepTime": 20,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Bowl",
-      "ingredients": [
-        "Beans",
-        "Oil",
-        "Garlic",
-        "Salt"
-      ],
-      "steps": [
-        "Cook beans",
-        "Mash beans",
-        "Fry with oil",
-        "Season and serve"
-      ],
-      "garnish": "Cheese crumble",
-      "premium": false
-    },
-    {
-      "id": "34",
-      "title": "Sopes",
-      "category": "meals",
-      "image": "https://images.unsplash.com/photo-1615873968403-89e068629265?w=800",
-      "prepTime": 30,
-      "difficulty": "Medium",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Corn dough",
-        "Beans",
-        "Meat",
-        "Cheese"
-      ],
-      "steps": [
-        "Shape dough",
-        "Cook base",
-        "Add toppings",
-        "Serve warm"
-      ],
-      "garnish": "Lettuce and cream",
-      "premium": true
-    },
-    {
-      "id": "35",
-      "title": "Huaraches",
-      "category": "meals",
-      "image": "https://images.unsplash.com/photo-1625944525533-473f1f4bda3d?w=800",
-      "prepTime": 35,
-      "difficulty": "Medium",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Corn dough",
-        "Beans",
-        "Meat",
-        "Salsa"
-      ],
-      "steps": [
-        "Form base",
-        "Cook dough",
-        "Add toppings",
-        "Serve hot"
-      ],
-      "garnish": "Fresh cheese",
-      "premium": true
-    },
-    {
-      "id": "36",
-      "title": "Mangonada",
-      "category": "drinks",
-      "image": "https://images.unsplash.com/photo-1598515213692-5f252db9b5f1?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Glass",
-      "ingredients": [
-        "Mango",
-        "Chamoy",
-        "Lime",
-        "Chili powder"
-      ],
-      "steps": [
-        "Blend mango",
-        "Layer chamoy",
-        "Add chili powder",
-        "Serve cold"
-      ],
-      "garnish": "Tamarind candy straw",
-      "premium": false
-    },
-    {
-      "id": "37",
-      "title": "Atole",
-      "category": "drinks",
-      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800",
-      "prepTime": 15,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Mug",
-      "ingredients": [
-        "Corn flour",
-        "Milk",
-        "Sugar",
-        "Cinnamon"
-      ],
-      "steps": [
-        "Mix ingredients",
-        "Heat slowly",
-        "Stir until thick",
-        "Serve warm"
-      ],
-      "garnish": "Cinnamon stick",
-      "premium": false
-    },
-    {
-      "id": "38",
-      "title": "Champurrado",
-      "category": "drinks",
-      "image": "https://images.unsplash.com/photo-1604909052743-94e838986d24?w=800",
-      "prepTime": 15,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Mug",
-      "ingredients": [
-        "Chocolate",
-        "Corn flour",
-        "Milk",
-        "Sugar"
-      ],
-      "steps": [
-        "Mix ingredients",
-        "Heat and stir",
-        "Thicken mixture",
-        "Serve hot"
-      ],
-      "garnish": "Chocolate shavings",
-      "premium": false
-    },
-    {
-      "id": "39",
-      "title": "Mexican Gelatin",
-      "category": "desserts",
-      "image": "https://images.unsplash.com/photo-1625944525603-473f1f4bda3d?w=800",
-      "prepTime": 20,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Gelatin",
-        "Milk",
-        "Fruit"
-      ],
-      "steps": [
-        "Prepare gelatin",
-        "Add milk layer",
-        "Add fruit",
-        "Chill until set"
-      ],
-      "garnish": "Fresh fruit",
-      "premium": false
-    },
-    {
-      "id": "40",
-      "title": "Capirotada",
-      "category": "desserts",
-      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800",
-      "prepTime": 40,
-      "difficulty": "Medium",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Bread",
-        "Syrup",
-        "Cheese",
-        "Raisins"
-      ],
-      "steps": [
-        "Layer bread",
-        "Add syrup",
-        "Add toppings",
-        "Bake"
-      ],
-      "garnish": "Powdered sugar",
-      "premium": true
-    },
-
-    {
+  "title": "Michelada",
+  "category": "drinks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/21.png",
+  "prepTime": 5,
+  "difficulty": "Easy",
+  "alcoholContent": "Low",
+  "glassType": "Glass",
+  "ingredients": [
+    "Beer",
+    "Lime juice",
+    "Hot sauce",
+    "Salt"
+  ],
+  "steps": [
+    "Add lime juice to glass",
+    "Add hot sauce and salt",
+    "Pour beer",
+    "Stir gently"
+  ],
+  "garnish": "Salt rim",
+  "premium": false
+},
+{
+  "id": "22",
+  "title": "Tamarind Drink",
+  "category": "drinks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/22.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Glass",
+  "ingredients": [
+    "Tamarind pulp",
+    "Water",
+    "Sugar"
+  ],
+  "steps": [
+    "Mix tamarind with water",
+    "Add sugar",
+    "Chill",
+    "Serve cold"
+  ],
+  "garnish": "Mint leaves",
+  "premium": false
+},
+{
+  "id": "23",
+  "title": "Mexican Coffee",
+  "category": "drinks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/23.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Mug",
+  "ingredients": [
+    "Coffee",
+    "Cinnamon",
+    "Sugar"
+  ],
+  "steps": [
+    "Brew coffee",
+    "Add cinnamon and sugar",
+    "Stir well",
+    "Serve hot"
+  ],
+  "garnish": "Cinnamon stick",
+  "premium": false
+},
+{
+  "id": "24",
+  "title": "Tres Leches Cake",
+  "category": "desserts",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/24.png",
+  "prepTime": 45,
+  "difficulty": "Medium",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Cake base",
+    "Condensed milk",
+    "Evaporated milk",
+    "Heavy cream"
+  ],
+  "steps": [
+    "Bake the cake",
+    "Soak with milk mixture",
+    "Chill",
+    "Serve"
+  ],
+  "garnish": "Whipped cream",
+  "premium": true
+},
+{
+  "id": "25",
+  "title": "Arroz con Leche",
+  "category": "desserts",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/25.png",
+  "prepTime": 30,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Bowl",
+  "ingredients": [
+    "Rice",
+    "Milk",
+    "Sugar",
+    "Cinnamon"
+  ],
+  "steps": [
+    "Cook rice",
+    "Add milk and sugar",
+    "Simmer until creamy",
+    "Serve warm or cold"
+  ],
+  "garnish": "Cinnamon powder",
+  "premium": false
+},
+{
+  "id": "26",
+  "title": "Queso Dip",
+  "category": "dips",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/26.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Bowl",
+  "ingredients": [
+    "Cheese",
+    "Milk",
+    "Chili"
+  ],
+  "steps": [
+    "Melt cheese",
+    "Add milk",
+    "Mix chili",
+    "Serve warm"
+  ],
+  "garnish": "Chopped jalapeños",
+  "premium": false
+},
+{
+  "id": "27",
+  "title": "Bean Dip",
+  "category": "dips",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/27.png",
+  "prepTime": 15,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Bowl",
+  "ingredients": [
+    "Beans",
+    "Cheese",
+    "Spices"
+  ],
+  "steps": [
+    "Mash beans",
+    "Heat with cheese",
+    "Season",
+    "Serve"
+  ],
+  "garnish": "Cheese topping",
+  "premium": false
+},
+{
+  "id": "28",
+  "title": "Taquitos",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/28.png",
+  "prepTime": 20,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Tortillas",
+    "Chicken",
+    "Oil"
+  ],
+  "steps": [
+    "Fill tortillas",
+    "Roll tightly",
+    "Fry until crispy",
+    "Serve"
+  ],
+  "garnish": "Guacamole",
+  "premium": false
+},
+{
+  "id": "29",
+  "title": "Tostadas",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/29.png",
+  "prepTime": 15,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Tostada shells",
+    "Beans",
+    "Lettuce",
+    "Cheese"
+  ],
+  "steps": [
+    "Spread beans on tostadas",
+    "Add toppings",
+    "Serve immediately"
+  ],
+  "garnish": "Crema",
+  "premium": false
+},
+{
+  "id": "30",
+  "title": "Mexican Street Corn Cups",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/30.png",
+  "prepTime": 15,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Cup",
+  "ingredients": [
+    "Corn",
+    "Mayo",
+    "Cheese",
+    "Chili powder"
+  ],
+  "steps": [
+    "Cook corn",
+    "Mix with mayo and cheese",
+    "Add chili powder",
+    "Serve warm"
+  ],
+  "garnish": "Lime juice",
+  "premium": false
+},
+{
+  "id": "31",
+  "title": "Shrimp Tacos",
+  "category": "meals",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/31.png",
+  "prepTime": 20,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Shrimp",
+    "Tortillas",
+    "Cabbage",
+    "Lime",
+    "Sauce"
+  ],
+  "steps": [
+    "Cook shrimp",
+    "Prepare toppings",
+    "Assemble tacos",
+    "Serve immediately"
+  ],
+  "garnish": "Lime wedges",
+  "premium": false
+},
+{
+  "id": "32",
+  "title": "Mexican Rice",
+  "category": "meals",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/32.png",
+  "prepTime": 25,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Bowl",
+  "ingredients": [
+    "Rice",
+    "Tomato sauce",
+    "Garlic",
+    "Onion"
+  ],
+  "steps": [
+    "Toast rice",
+    "Add sauce and water",
+    "Simmer until cooked",
+    "Fluff and serve"
+  ],
+  "garnish": "Fresh cilantro",
+  "premium": false
+},
+{
+  "id": "33",
+  "title": "Refried Beans",
+  "category": "meals",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/33.png",
+  "prepTime": 20,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Bowl",
+  "ingredients": [
+    "Beans",
+    "Oil",
+    "Garlic",
+    "Salt"
+  ],
+  "steps": [
+    "Cook beans",
+    "Mash beans",
+    "Fry with oil",
+    "Season and serve"
+  ],
+  "garnish": "Cheese crumble",
+  "premium": false
+},
+{
+  "id": "34",
+  "title": "Sopes",
+  "category": "meals",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/34.png",
+  "prepTime": 30,
+  "difficulty": "Medium",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Corn dough",
+    "Beans",
+    "Meat",
+    "Cheese"
+  ],
+  "steps": [
+    "Shape dough",
+    "Cook base",
+    "Add toppings",
+    "Serve warm"
+  ],
+  "garnish": "Lettuce and cream",
+  "premium": true
+},
+{
+  "id": "35",
+  "title": "Huaraches",
+  "category": "meals",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/35.png",
+  "prepTime": 35,
+  "difficulty": "Medium",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Corn dough",
+    "Beans",
+    "Meat",
+    "Salsa"
+  ],
+  "steps": [
+    "Form base",
+    "Cook dough",
+    "Add toppings",
+    "Serve hot"
+  ],
+  "garnish": "Fresh cheese",
+  "premium": true
+},
+{
+  "id": "36",
+  "title": "Mangonada",
+  "category": "drinks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/36.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Glass",
+  "ingredients": [
+    "Mango",
+    "Chamoy",
+    "Lime",
+    "Chili powder"
+  ],
+  "steps": [
+    "Blend mango",
+    "Layer chamoy",
+    "Add chili powder",
+    "Serve cold"
+  ],
+  "garnish": "Tamarind candy straw",
+  "premium": false
+},
+{
+  "id": "37",
+  "title": "Atole",
+  "category": "drinks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/37.png",
+  "prepTime": 15,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Mug",
+  "ingredients": [
+    "Corn flour",
+    "Milk",
+    "Sugar",
+    "Cinnamon"
+  ],
+  "steps": [
+    "Mix ingredients",
+    "Heat slowly",
+    "Stir until thick",
+    "Serve warm"
+  ],
+  "garnish": "Cinnamon stick",
+  "premium": false
+},
+{
+  "id": "38",
+  "title": "Champurrado",
+  "category": "drinks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/38.png",
+  "prepTime": 15,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Mug",
+  "ingredients": [
+    "Chocolate",
+    "Corn flour",
+    "Milk",
+    "Sugar"
+  ],
+  "steps": [
+    "Mix ingredients",
+    "Heat and stir",
+    "Thicken mixture",
+    "Serve hot"
+  ],
+  "garnish": "Chocolate shavings",
+  "premium": false
+},
+{
+  "id": "39",
+  "title": "Mexican Gelatin",
+  "category": "desserts",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/39.png",
+  "prepTime": 20,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Gelatin",
+    "Milk",
+    "Fruit"
+  ],
+  "steps": [
+    "Prepare gelatin",
+    "Add milk layer",
+    "Add fruit",
+    "Chill until set"
+  ],
+  "garnish": "Fresh fruit",
+  "premium": false
+},
+{
+  "id": "40",
+  "title": "Capirotada",
+  "category": "desserts",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/40.png",
+  "prepTime": 40,
+  "difficulty": "Medium",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Bread",
+    "Syrup",
+    "Cheese",
+    "Raisins"
+  ],
+  "steps": [
+    "Layer bread",
+    "Add syrup",
+    "Add toppings",
+    "Bake"
+  ],
+  "garnish": "Powdered sugar",
+  "premium": true
+},
+{
       "id": "41",
       "title": "Spicy Avocado Dip",
       "category": "dips",
