@@ -983,1399 +983,1396 @@
   "premium": true
 },
 {
-      "id": "41",
-      "title": "Spicy Avocado Dip",
-      "category": "dips",
-      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Bowl",
-      "ingredients": [
-        "Avocado",
-        "Chili",
-        "Lime",
-        "Salt"
-      ],
-      "steps": [
-        "Mash avocado",
-        "Add ingredients",
-        "Mix well",
-        "Serve fresh"
-      ],
-      "garnish": "Chili flakes",
-      "premium": false
-    },
-    {
-      "id": "42",
-      "title": "Roasted Tomato Dip",
-      "category": "dips",
-      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800",
-      "prepTime": 15,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Bowl",
-      "ingredients": [
-        "Tomatoes",
-        "Garlic",
-        "Chili",
-        "Salt"
-      ],
-      "steps": [
-        "Roast ingredients",
-        "Blend mixture",
-        "Adjust seasoning",
-        "Serve"
-      ],
-      "garnish": "Cilantro",
-      "premium": false
-    },
+  "id": "41",
+  "title": "Spicy Avocado Dip",
+  "category": "dips",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/41.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Bowl",
+  "ingredients": [
+    "Avocado",
+    "Chili",
+    "Lime",
+    "Salt"
+  ],
+  "steps": [
+    "Mash avocado",
+    "Add ingredients",
+    "Mix well",
+    "Serve fresh"
+  ],
+  "garnish": "Chili flakes",
+  "premium": false
+},
+{
+  "id": "42",
+  "title": "Roasted Tomato Dip",
+  "category": "dips",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/42.png",
+  "prepTime": 15,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Bowl",
+  "ingredients": [
+    "Tomatoes",
+    "Garlic",
+    "Chili",
+    "Salt"
+  ],
+  "steps": [
+    "Roast ingredients",
+    "Blend mixture",
+    "Adjust seasoning",
+    "Serve"
+  ],
+  "garnish": "Cilantro",
+  "premium": false
+},
 
-    {
-      "id": "43",
-      "title": "Mexican Chips and Salsa",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Tortilla chips",
-        "Salsa"
-      ],
-      "steps": [
-        "Place chips",
-        "Add salsa",
-        "Serve"
-      ],
-      "garnish": "Lime wedges",
-      "premium": false
-    },
-    {
-      "id": "44",
-      "title": "Chicharrones",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800",
-      "prepTime": 25,
-      "difficulty": "Medium",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Pork skin",
-        "Salt"
-      ],
-      "steps": [
-        "Heat oil",
-        "Fry pork skin",
-        "Season",
-        "Serve"
-      ],
-      "garnish": "Hot sauce",
-      "premium": true
-    },
-    {
-      "id": "45",
-      "title": "Mini Quesadillas",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800",
-      "prepTime": 15,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Tortillas",
-        "Cheese"
-      ],
-      "steps": [
-        "Add cheese",
-        "Cook",
-        "Slice",
-        "Serve"
-      ],
-      "garnish": "Sour cream",
-      "premium": false
-    },
-    {
-      "id": "46",
-      "title": "Mexican Fruit Cups",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Cup",
-      "ingredients": [
-        "Mixed fruit",
-        "Chili powder",
-        "Lime"
-      ],
-      "steps": [
-        "Cut fruit",
-        "Add chili",
-        "Squeeze lime",
-        "Serve"
-      ],
-      "garnish": "Extra chili powder",
-      "premium": false
-    },
-    {
-      "id": "47",
-      "title": "Esquites",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800",
-      "prepTime": 15,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Cup",
-      "ingredients": [
-        "Corn",
-        "Mayo",
-        "Cheese",
-        "Chili"
-      ],
-      "steps": [
-        "Cook corn",
-        "Mix toppings",
-        "Serve warm"
-      ],
-      "garnish": "Lime juice",
-      "premium": false
-    },
-    {
-      "id": "48",
-      "title": "Mexican Popcorn",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Bowl",
-      "ingredients": [
-        "Popcorn",
-        "Chili powder",
-        "Butter"
-      ],
-      "steps": [
-        "Pop corn",
-        "Add butter",
-        "Season",
-        "Serve"
-      ],
-      "garnish": "Extra chili",
-      "premium": false
-    },
-    {
-      "id": "49",
-      "title": "Stuffed Jalapeños",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800",
-      "prepTime": 20,
-      "difficulty": "Medium",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Jalapeños",
-        "Cheese",
-        "Bacon"
-      ],
-      "steps": [
-        "Stuff peppers",
-        "Bake",
-        "Serve"
-      ],
-      "garnish": "Cream sauce",
-      "premium": true
-    },
-    {
-      "id": "50",
-      "title": "Mexican Cheese Balls",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800",
-      "prepTime": 20,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Cheese",
-        "Flour",
-        "Eggs"
-      ],
-      "steps": [
-        "Mix ingredients",
-        "Form balls",
-        "Fry",
-        "Serve"
-      ],
-      "garnish": "Parsley",
-      "premium": false
-    },
-    {
-      {
-  "cocktails": [
-    {
-      "id": "51",
-      "title": "Barbacoa Tacos",
-      "category": "meals",
-      "image": "https://images.unsplash.com/photo-1600891964092-4316c288032e?w=800",
-      "prepTime": 60,
-      "difficulty": "Medium",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Beef",
-        "Garlic",
-        "Chili sauce",
-        "Tortillas"
-      ],
-      "steps": [
-        "Slow cook the beef",
-        "Shred the meat",
-        "Warm tortillas",
-        "Assemble tacos"
-      ],
-      "garnish": "Onion and cilantro",
-      "premium": true
-    },
-    {
-      "id": "52",
-      "title": "Carnitas",
-      "category": "meals",
-      "image": "https://images.unsplash.com/photo-1613514785940-daed07799d9b?w=800",
-      "prepTime": 90,
-      "difficulty": "Medium",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Pork",
-        "Orange juice",
-        "Garlic",
-        "Spices"
-      ],
-      "steps": [
-        "Cook pork slowly",
-        "Shred meat",
-        "Crisp in pan",
-        "Serve"
-      ],
-      "garnish": "Lime wedges",
-      "premium": true
-    },
-    {
-      "id": "53",
-      "title": "Chicken Tortilla Soup",
-      "category": "meals",
-      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=800",
-      "prepTime": 40,
-      "difficulty": "Medium",
-      "alcoholContent": "None",
-      "glassType": "Bowl",
-      "ingredients": [
-        "Chicken",
-        "Tomato broth",
-        "Tortilla strips",
-        "Avocado"
-      ],
-      "steps": [
-        "Cook chicken in broth",
-        "Add tomato base",
-        "Simmer",
-        "Serve with toppings"
-      ],
-      "garnish": "Avocado slices",
-      "premium": false
-    },
-    {
-      "id": "54",
-      "title": "Mexican Omelette",
-      "category": "meals",
-      "image": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d?w=800",
-      "prepTime": 15,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Eggs",
-        "Tomato",
-        "Onion",
-        "Cheese"
-      ],
-      "steps": [
-        "Beat eggs",
-        "Cook with vegetables",
-        "Add cheese",
-        "Fold and serve"
-      ],
-      "garnish": "Cilantro",
-      "premium": false
-    },
-    {
-      "id": "55",
-      "title": "Stuffed Peppers Mexican Style",
-      "category": "meals",
-      "image": "https://images.unsplash.com/photo-1601315488950-3b5047998b38?w=800",
-      "prepTime": 35,
-      "difficulty": "Medium",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Bell peppers",
-        "Ground beef",
-        "Rice",
-        "Cheese"
-      ],
-      "steps": [
-        "Cook filling",
-        "Stuff peppers",
-        "Bake",
-        "Serve"
-      ],
-      "garnish": "Cheese topping",
-      "premium": true
-    },
+{
+  "id": "43",
+  "title": "Mexican Chips and Salsa",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/43.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Tortilla chips",
+    "Salsa"
+  ],
+  "steps": [
+    "Place chips",
+    "Add salsa",
+    "Serve"
+  ],
+  "garnish": "Lime wedges",
+  "premium": false
+},
+{
+  "id": "44",
+  "title": "Chicharrones",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/44.png",
+  "prepTime": 25,
+  "difficulty": "Medium",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Pork skin",
+    "Salt"
+  ],
+  "steps": [
+    "Heat oil",
+    "Fry pork skin",
+    "Season",
+    "Serve"
+  ],
+  "garnish": "Hot sauce",
+  "premium": true
+},
+{
+  "id": "45",
+  "title": "Mini Quesadillas",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/45.png",
+  "prepTime": 15,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Tortillas",
+    "Cheese"
+  ],
+  "steps": [
+    "Add cheese",
+    "Cook",
+    "Slice",
+    "Serve"
+  ],
+  "garnish": "Sour cream",
+  "premium": false
+},
+{
+  "id": "46",
+  "title": "Mexican Fruit Cups",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/46.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Cup",
+  "ingredients": [
+    "Mixed fruit",
+    "Chili powder",
+    "Lime"
+  ],
+  "steps": [
+    "Cut fruit",
+    "Add chili",
+    "Squeeze lime",
+    "Serve"
+  ],
+  "garnish": "Extra chili powder",
+  "premium": false
+},
+{
+  "id": "47",
+  "title": "Esquites",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/47.png",
+  "prepTime": 15,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Cup",
+  "ingredients": [
+    "Corn",
+    "Mayo",
+    "Cheese",
+    "Chili"
+  ],
+  "steps": [
+    "Cook corn",
+    "Mix toppings",
+    "Serve warm"
+  ],
+  "garnish": "Lime juice",
+  "premium": false
+},
+{
+  "id": "48",
+  "title": "Mexican Popcorn",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/48.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Bowl",
+  "ingredients": [
+    "Popcorn",
+    "Chili powder",
+    "Butter"
+  ],
+  "steps": [
+    "Pop corn",
+    "Add butter",
+    "Season",
+    "Serve"
+  ],
+  "garnish": "Extra chili",
+  "premium": false
+},
+{
+  "id": "49",
+  "title": "Stuffed Jalapeños",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/49.png",
+  "prepTime": 20,
+  "difficulty": "Medium",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Jalapeños",
+    "Cheese",
+    "Bacon"
+  ],
+  "steps": [
+    "Stuff peppers",
+    "Bake",
+    "Serve"
+  ],
+  "garnish": "Cream sauce",
+  "premium": true
+},
+{
+  "id": "50",
+  "title": "Mexican Cheese Balls",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/50.png",
+  "prepTime": 20,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Cheese",
+    "Flour",
+    "Eggs"
+  ],
+  "steps": [
+    "Mix ingredients",
+    "Form balls",
+    "Fry",
+    "Serve"
+  ],
+  "garnish": "Parsley",
+  "premium": false
+},
+{
+  "id": "51",
+  "title": "Barbacoa Tacos",
+  "category": "meals",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/51.png",
+  "prepTime": 60,
+  "difficulty": "Medium",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Beef",
+    "Garlic",
+    "Chili sauce",
+    "Tortillas"
+  ],
+  "steps": [
+    "Slow cook the beef",
+    "Shred the meat",
+    "Warm tortillas",
+    "Assemble tacos"
+  ],
+  "garnish": "Onion and cilantro",
+  "premium": true
+},
+{
+  "id": "52",
+  "title": "Carnitas",
+  "category": "meals",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/52.png",
+  "prepTime": 90,
+  "difficulty": "Medium",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Pork",
+    "Orange juice",
+    "Garlic",
+    "Spices"
+  ],
+  "steps": [
+    "Cook pork slowly",
+    "Shred meat",
+    "Crisp in pan",
+    "Serve"
+  ],
+  "garnish": "Lime wedges",
+  "premium": true
+},
+{
+  "id": "53",
+  "title": "Chicken Tortilla Soup",
+  "category": "meals",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/53.png",
+  "prepTime": 40,
+  "difficulty": "Medium",
+  "alcoholContent": "None",
+  "glassType": "Bowl",
+  "ingredients": [
+    "Chicken",
+    "Tomato broth",
+    "Tortilla strips",
+    "Avocado"
+  ],
+  "steps": [
+    "Cook chicken in broth",
+    "Add tomato base",
+    "Simmer",
+    "Serve with toppings"
+  ],
+  "garnish": "Avocado slices",
+  "premium": false
+},
+{
+  "id": "54",
+  "title": "Mexican Omelette",
+  "category": "meals",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/54.png",
+  "prepTime": 15,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Eggs",
+    "Tomato",
+    "Onion",
+    "Cheese"
+  ],
+  "steps": [
+    "Beat eggs",
+    "Cook with vegetables",
+    "Add cheese",
+    "Fold and serve"
+  ],
+  "garnish": "Cilantro",
+  "premium": false
+},
+{
+  "id": "55",
+  "title": "Stuffed Peppers Mexican Style",
+  "category": "meals",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/55.png",
+  "prepTime": 35,
+  "difficulty": "Medium",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Bell peppers",
+    "Ground beef",
+    "Rice",
+    "Cheese"
+  ],
+  "steps": [
+    "Cook filling",
+    "Stuff peppers",
+    "Bake",
+    "Serve"
+  ],
+  "garnish": "Cheese topping",
+  "premium": true
+},
 
-    {
-      "id": "56",
-      "title": "Pineapple Agua Fresca",
-      "category": "drinks",
-      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6b5f?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Glass",
-      "ingredients": [
-        "Pineapple",
-        "Water",
-        "Sugar"
-      ],
-      "steps": [
-        "Blend pineapple",
-        "Add water and sugar",
-        "Strain",
-        "Serve cold"
-      ],
-      "garnish": "Pineapple slice",
-      "premium": false
-    },
-    {
-      "id": "57",
-      "title": "Lime Agua Fresca",
-      "category": "drinks",
-      "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=800",
-      "prepTime": 5,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Glass",
-      "ingredients": [
-        "Lime juice",
-        "Water",
-        "Sugar"
-      ],
-      "steps": [
-        "Mix lime juice with water",
-        "Add sugar",
-        "Stir well",
-        "Serve chilled"
-      ],
-      "garnish": "Lime slices",
-      "premium": false
-    },
-    {
-      "id": "58",
-      "title": "Mexican Smoothie",
-      "category": "drinks",
-      "image": "https://images.unsplash.com/photo-1505253716362-afaea6fc1233?w=800",
-      "prepTime": 5,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Glass",
-      "ingredients": [
-        "Banana",
-        "Milk",
-        "Honey"
-      ],
-      "steps": [
-        "Blend all ingredients",
-        "Adjust sweetness",
-        "Serve immediately"
-      ],
-      "garnish": "Banana slice",
-      "premium": false
-    },
+{
+  "id": "56",
+  "title": "Pineapple Agua Fresca",
+  "category": "drinks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/56.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Glass",
+  "ingredients": [
+    "Pineapple",
+    "Water",
+    "Sugar"
+  ],
+  "steps": [
+    "Blend pineapple",
+    "Add water and sugar",
+    "Strain",
+    "Serve cold"
+  ],
+  "garnish": "Pineapple slice",
+  "premium": false
+},
+{
+  "id": "57",
+  "title": "Lime Agua Fresca",
+  "category": "drinks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/57.png",
+  "prepTime": 5,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Glass",
+  "ingredients": [
+    "Lime juice",
+    "Water",
+    "Sugar"
+  ],
+  "steps": [
+    "Mix lime juice with water",
+    "Add sugar",
+    "Stir well",
+    "Serve chilled"
+  ],
+  "garnish": "Lime slices",
+  "premium": false
+},
+{
+  "id": "58",
+  "title": "Mexican Smoothie",
+  "category": "drinks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/58.png",
+  "prepTime": 5,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Glass",
+  "ingredients": [
+    "Banana",
+    "Milk",
+    "Honey"
+  ],
+  "steps": [
+    "Blend all ingredients",
+    "Adjust sweetness",
+    "Serve immediately"
+  ],
+  "garnish": "Banana slice",
+  "premium": false
+},
 
-    {
-      "id": "59",
-      "title": "Mexican Brownies",
-      "category": "desserts",
-      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=800",
-      "prepTime": 30,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Chocolate",
-        "Flour",
-        "Eggs",
-        "Sugar",
-        "Cinnamon"
-      ],
-      "steps": [
-        "Mix ingredients",
-        "Pour into pan",
-        "Bake",
-        "Cool and serve"
-      ],
-      "garnish": "Powdered sugar",
-      "premium": true
-    },
-    {
-      "id": "60",
-      "title": "Dulce de Leche Treat",
-      "category": "desserts",
-      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800",
-      "prepTime": 20,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Milk",
-        "Sugar",
-        "Vanilla"
-      ],
-      "steps": [
-        "Heat milk and sugar",
-        "Stir constantly",
-        "Thicken mixture",
-        "Serve"
-      ],
-      "garnish": "Caramel drizzle",
-      "premium": false
-    },
+{
+  "id": "59",
+  "title": "Mexican Brownies",
+  "category": "desserts",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/59.png",
+  "prepTime": 30,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Chocolate",
+    "Flour",
+    "Eggs",
+    "Sugar",
+    "Cinnamon"
+  ],
+  "steps": [
+    "Mix ingredients",
+    "Pour into pan",
+    "Bake",
+    "Cool and serve"
+  ],
+  "garnish": "Powdered sugar",
+  "premium": true
+},
+{
+  "id": "60",
+  "title": "Dulce de Leche Treat",
+  "category": "desserts",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/60.png",
+  "prepTime": 20,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Milk",
+    "Sugar",
+    "Vanilla"
+  ],
+  "steps": [
+    "Heat milk and sugar",
+    "Stir constantly",
+    "Thicken mixture",
+    "Serve"
+  ],
+  "garnish": "Caramel drizzle",
+  "premium": false
+},
 
-    {
-      "id": "61",
-      "title": "Spicy Cheese Dip",
-      "category": "dips",
-      "image": "https://images.unsplash.com/photo-1585238342028-4c8d5b8fbd9d?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Bowl",
-      "ingredients": [
-        "Cheese",
-        "Chili",
-        "Milk"
-      ],
-      "steps": [
-        "Melt cheese",
-        "Add chili",
-        "Mix well",
-        "Serve warm"
-      ],
-      "garnish": "Chili flakes",
-      "premium": false
-    },
-    {
-      "id": "62",
-      "title": "Creamy Jalapeño Dip",
-      "category": "dips",
-      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Bowl",
-      "ingredients": [
-        "Jalapeños",
-        "Cream",
-        "Salt"
-      ],
-      "steps": [
-        "Blend ingredients",
-        "Adjust seasoning",
-        "Serve chilled"
-      ],
-      "garnish": "Sliced jalapeños",
-      "premium": false
-    },
+{
+  "id": "61",
+  "title": "Spicy Cheese Dip",
+  "category": "dips",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/61.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Bowl",
+  "ingredients": [
+    "Cheese",
+    "Chili",
+    "Milk"
+  ],
+  "steps": [
+    "Melt cheese",
+    "Add chili",
+    "Mix well",
+    "Serve warm"
+  ],
+  "garnish": "Chili flakes",
+  "premium": false
+},
+{
+  "id": "62",
+  "title": "Creamy Jalapeño Dip",
+  "category": "dips",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/62.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Bowl",
+  "ingredients": [
+    "Jalapeños",
+    "Cream",
+    "Salt"
+  ],
+  "steps": [
+    "Blend ingredients",
+    "Adjust seasoning",
+    "Serve chilled"
+  ],
+  "garnish": "Sliced jalapeños",
+  "premium": false
+},
 
-    {
-      "id": "63",
-      "title": "Mexican Chips",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Tortillas",
-        "Oil",
-        "Salt"
-      ],
-      "steps": [
-        "Cut tortillas",
-        "Fry in oil",
-        "Season",
-        "Serve"
-      ],
-      "garnish": "Lime wedges",
-      "premium": false
-    },
-    {
-      "id": "64",
-      "title": "Fried Plantains",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800",
-      "prepTime": 15,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Plantains",
-        "Oil"
-      ],
-      "steps": [
-        "Slice plantains",
-        "Fry until golden",
-        "Serve"
-      ],
-      "garnish": "Sugar sprinkle",
-      "premium": false
-    },
-    {
-      "id": "65",
-      "title": "Mexican Sliders",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=800",
-      "prepTime": 20,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Mini buns",
-        "Beef",
-        "Cheese",
-        "Sauce"
-      ],
-      "steps": [
-        "Cook beef patties",
-        "Assemble sliders",
-        "Serve warm"
-      ],
-      "garnish": "Pickles",
-      "premium": false
-    },
-    {
-      "id": "66",
-      "title": "Mexican Pizza",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1548365328-9f547fb0953c?w=800",
-      "prepTime": 20,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Tortilla",
-        "Cheese",
-        "Beans",
-        "Salsa"
-      ],
-      "steps": [
-        "Layer ingredients",
-        "Bake until crispy",
-        "Slice and serve"
-      ],
-      "garnish": "Cilantro",
-      "premium": false
-    },
-    {
-      "id": "67",
-      "title": "Churro Bites",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?w=800",
-      "prepTime": 20,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Dough",
-        "Sugar",
-        "Cinnamon",
-        "Oil"
-      ],
-      "steps": [
-        "Form small dough pieces",
-        "Fry",
-        "Coat with sugar",
-        "Serve"
-      ],
-      "garnish": "Chocolate dip",
-      "premium": false
-    },
-    {
-      "id": "68",
-      "title": "Mini Tacos",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1552332386-f8dd00dc2f85?w=800",
-      "prepTime": 15,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Mini tortillas",
-        "Beef",
-        "Cheese"
-      ],
-      "steps": [
-        "Cook beef",
-        "Fill tortillas",
-        "Serve"
-      ],
-      "garnish": "Salsa",
-      "premium": false
-    },
-    {
-      "id": "69",
-      "title": "Cheese Nacho Bites",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=800",
-      "prepTime": 15,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Chips",
-        "Cheese",
-        "Jalapeños"
-      ],
-      "steps": [
-        "Layer chips and cheese",
-        "Melt in oven",
-        "Serve"
-      ],
-      "garnish": "Jalapeños",
-      "premium": false
-    },
-    {
-      "id": "70",
-      "title": "Sweet Corn Snacks",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1505253716362-afaea6fc1233?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Cup",
-      "ingredients": [
-        "Corn",
-        "Butter",
-        "Sugar"
-      ],
-      "steps": [
-        "Cook corn",
-        "Add butter and sugar",
-        "Serve warm"
-      ],
-      "garnish": "Cinnamon",
-      "premium": false
-    },
-    {
-      "id": "71",
-      "title": "Birria Tacos",
-      "category": "meals",
-      "image": "https://images.unsplash.com/photo-1600891964092-4316c288032e?w=800",
-      "prepTime": 120,
-      "difficulty": "Hard",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Beef",
-        "Chili sauce",
-        "Garlic",
-        "Tortillas"
-      ],
-      "steps": [
-        "Slow cook beef in chili sauce",
-        "Shred meat",
-        "Dip tortillas in broth",
-        "Cook tacos and serve"
-      ],
-      "garnish": "Onion and cilantro",
-      "premium": true
-    },
-    {
-      "id": "72",
-      "title": "Mexican Grilled Chicken",
-      "category": "meals",
-      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800",
-      "prepTime": 35,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Chicken",
-        "Spices",
-        "Lime"
-      ],
-      "steps": [
-        "Season chicken",
-        "Grill until cooked",
-        "Rest and serve"
-      ],
-      "garnish": "Lime wedges",
-      "premium": false
-    },
-    {
-      "id": "73",
-      "title": "Mexican Stuffed Tortillas",
-      "category": "meals",
-      "image": "https://images.unsplash.com/photo-1552332386-f8dd00dc2f85?w=800",
-      "prepTime": 25,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Tortillas",
-        "Beef",
-        "Cheese"
-      ],
-      "steps": [
-        "Cook beef",
-        "Fill tortillas",
-        "Heat and serve"
-      ],
-      "garnish": "Sour cream",
-      "premium": false
-    },
-    {
-      "id": "74",
-      "title": "Mexican Lentil Soup",
-      "category": "meals",
-      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=800",
-      "prepTime": 40,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Bowl",
-      "ingredients": [
-        "Lentils",
-        "Tomato",
-        "Onion",
-        "Garlic"
-      ],
-      "steps": [
-        "Cook lentils",
-        "Add vegetables",
-        "Simmer",
-        "Serve"
-      ],
-      "garnish": "Cilantro",
-      "premium": false
-    },
+{
+  "id": "63",
+  "title": "Mexican Chips",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/63.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Tortillas",
+    "Oil",
+    "Salt"
+  ],
+  "steps": [
+    "Cut tortillas",
+    "Fry in oil",
+    "Season",
+    "Serve"
+  ],
+  "garnish": "Lime wedges",
+  "premium": false
+},
+{
+  "id": "64",
+  "title": "Fried Plantains",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/64.png",
+  "prepTime": 15,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Plantains",
+    "Oil"
+  ],
+  "steps": [
+    "Slice plantains",
+    "Fry until golden",
+    "Serve"
+  ],
+  "garnish": "Sugar sprinkle",
+  "premium": false
+},
+{
+  "id": "65",
+  "title": "Mexican Sliders",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/65.png",
+  "prepTime": 20,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Mini buns",
+    "Beef",
+    "Cheese",
+    "Sauce"
+  ],
+  "steps": [
+    "Cook beef patties",
+    "Assemble sliders",
+    "Serve warm"
+  ],
+  "garnish": "Pickles",
+  "premium": false
+},
+{
+  "id": "66",
+  "title": "Mexican Pizza",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/66.png",
+  "prepTime": 20,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Tortilla",
+    "Cheese",
+    "Beans",
+    "Salsa"
+  ],
+  "steps": [
+    "Layer ingredients",
+    "Bake until crispy",
+    "Slice and serve"
+  ],
+  "garnish": "Cilantro",
+  "premium": false
+},
+{
+  "id": "67",
+  "title": "Churro Bites",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/67.png",
+  "prepTime": 20,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Dough",
+    "Sugar",
+    "Cinnamon",
+    "Oil"
+  ],
+  "steps": [
+    "Form small dough pieces",
+    "Fry",
+    "Coat with sugar",
+    "Serve"
+  ],
+  "garnish": "Chocolate dip",
+  "premium": false
+},
+{
+  "id": "68",
+  "title": "Mini Tacos",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/68.png",
+  "prepTime": 15,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Mini tortillas",
+    "Beef",
+    "Cheese"
+  ],
+  "steps": [
+    "Cook beef",
+    "Fill tortillas",
+    "Serve"
+  ],
+  "garnish": "Salsa",
+  "premium": false
+},
+{
+  "id": "69",
+  "title": "Cheese Nacho Bites",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/69.png",
+  "prepTime": 15,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Chips",
+    "Cheese",
+    "Jalapeños"
+  ],
+  "steps": [
+    "Layer chips and cheese",
+    "Melt in oven",
+    "Serve"
+  ],
+  "garnish": "Jalapeños",
+  "premium": false
+},
+{
+  "id": "70",
+  "title": "Sweet Corn Snacks",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/70.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Cup",
+  "ingredients": [
+    "Corn",
+    "Butter",
+    "Sugar"
+  ],
+  "steps": [
+    "Cook corn",
+    "Add butter and sugar",
+    "Serve warm"
+  ],
+  "garnish": "Cinnamon",
+  "premium": false
+},
+{
+  "id": "71",
+  "title": "Birria Tacos",
+  "category": "meals",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/71.png",
+  "prepTime": 120,
+  "difficulty": "Hard",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Beef",
+    "Chili sauce",
+    "Garlic",
+    "Tortillas"
+  ],
+  "steps": [
+    "Slow cook beef in chili sauce",
+    "Shred meat",
+    "Dip tortillas in broth",
+    "Cook tacos and serve"
+  ],
+  "garnish": "Onion and cilantro",
+  "premium": true
+},
+{
+  "id": "72",
+  "title": "Mexican Grilled Chicken",
+  "category": "meals",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/72.png",
+  "prepTime": 35,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Chicken",
+    "Spices",
+    "Lime"
+  ],
+  "steps": [
+    "Season chicken",
+    "Grill until cooked",
+    "Rest and serve"
+  ],
+  "garnish": "Lime wedges",
+  "premium": false
+},
+{
+  "id": "73",
+  "title": "Mexican Stuffed Tortillas",
+  "category": "meals",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/73.png",
+  "prepTime": 25,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Tortillas",
+    "Beef",
+    "Cheese"
+  ],
+  "steps": [
+    "Cook beef",
+    "Fill tortillas",
+    "Heat and serve"
+  ],
+  "garnish": "Sour cream",
+  "premium": false
+},
+{
+  "id": "74",
+  "title": "Mexican Lentil Soup",
+  "category": "meals",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/74.png",
+  "prepTime": 40,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Bowl",
+  "ingredients": [
+    "Lentils",
+    "Tomato",
+    "Onion",
+    "Garlic"
+  ],
+  "steps": [
+    "Cook lentils",
+    "Add vegetables",
+    "Simmer",
+    "Serve"
+  ],
+  "garnish": "Cilantro",
+  "premium": false
+},
 
-    {
-      "id": "75",
-      "title": "Strawberry Agua Fresca",
-      "category": "drinks",
-      "image": "https://images.unsplash.com/photo-1497534446932-c925b458314e?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Glass",
-      "ingredients": [
-        "Strawberries",
-        "Water",
-        "Sugar"
-      ],
-      "steps": [
-        "Blend strawberries",
-        "Add water and sugar",
-        "Strain",
-        "Serve cold"
-      ],
-      "garnish": "Strawberry slice",
-      "premium": false
-    },
-    {
-      "id": "76",
-      "title": "Coconut Agua Fresca",
-      "category": "drinks",
-      "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Glass",
-      "ingredients": [
-        "Coconut water",
-        "Sugar",
-        "Milk"
-      ],
-      "steps": [
-        "Mix coconut water with milk",
-        "Add sugar",
-        "Serve chilled"
-      ],
-      "garnish": "Coconut flakes",
-      "premium": false
-    },
+{
+  "id": "75",
+  "title": "Strawberry Agua Fresca",
+  "category": "drinks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/75.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Glass",
+  "ingredients": [
+    "Strawberries",
+    "Water",
+    "Sugar"
+  ],
+  "steps": [
+    "Blend strawberries",
+    "Add water and sugar",
+    "Strain",
+    "Serve cold"
+  ],
+  "garnish": "Strawberry slice",
+  "premium": false
+},
+{
+  "id": "76",
+  "title": "Coconut Agua Fresca",
+  "category": "drinks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/76.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Glass",
+  "ingredients": [
+    "Coconut water",
+    "Sugar",
+    "Milk"
+  ],
+  "steps": [
+    "Mix coconut water with milk",
+    "Add sugar",
+    "Serve chilled"
+  ],
+  "garnish": "Coconut flakes",
+  "premium": false
+},
 
-    {
-      "id": "77",
-      "title": "Mexican Donuts",
-      "category": "desserts",
-      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=800",
-      "prepTime": 30,
-      "difficulty": "Medium",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Flour",
-        "Sugar",
-        "Eggs",
-        "Oil"
-      ],
-      "steps": [
-        "Prepare dough",
-        "Shape donuts",
-        "Fry",
-        "Serve"
-      ],
-      "garnish": "Sugar coating",
-      "premium": true
-    },
-    {
-      "id": "78",
-      "title": "Mexican Sweet Bread",
-      "category": "desserts",
-      "image": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=800",
-      "prepTime": 45,
-      "difficulty": "Medium",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Flour",
-        "Sugar",
-        "Butter",
-        "Yeast"
-      ],
-      "steps": [
-        "Prepare dough",
-        "Bake bread",
-        "Cool",
-        "Serve"
-      ],
-      "garnish": "Sugar topping",
-      "premium": true
-    },
-
-    {
-      "id": "79",
-      "title": "Garlic Chili Dip",
-      "category": "dips",
-      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Bowl",
-      "ingredients": [
-        "Chili",
-        "Garlic",
-        "Oil"
-      ],
-      "steps": [
-        "Blend ingredients",
-        "Adjust seasoning",
-        "Serve"
-      ],
-      "garnish": "Chili flakes",
-      "premium": false
-    },
-    {
-      "id": "80",
-      "title": "Avocado Cream Dip",
-      "category": "dips",
-      "image": "https://images.unsplash.com/photo-1601039641847-7857b994d704?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Bowl",
-      "ingredients": [
-        "Avocado",
-        "Cream",
-        "Salt"
-      ],
-      "steps": [
-        "Blend ingredients",
-        "Chill",
-        "Serve"
-      ],
-      "garnish": "Cilantro",
-      "premium": false
-    },
-    {
-      "id": "81",
-      "title": "Mexican Crackers",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Crackers",
-        "Chili powder",
-        "Lime"
-      ],
-      "steps": [
-        "Arrange crackers",
-        "Add chili and lime",
-        "Serve"
-      ],
-      "garnish": "Lime wedges",
-      "premium": false
-    },
-    {
-      "id": "82",
-      "title": "Mexican Fries",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=800",
-      "prepTime": 20,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Potatoes",
-        "Oil",
-        "Chili powder"
-      ],
-      "steps": [
-        "Cut potatoes",
-        "Fry",
-        "Season",
-        "Serve"
-      ],
-      "garnish": "Cheese sauce",
-      "premium": false
-    },
-    {
-      "id": "83",
-      "title": "Spicy Corn Chips",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Corn chips",
-        "Chili powder",
-        "Lime"
-      ],
-      "steps": [
-        "Add seasoning",
-        "Mix well",
-        "Serve"
-      ],
-      "garnish": "Lime juice",
-      "premium": false
-    },
-    {
-      "id": "84",
-      "title": "Mexican Mini Burritos",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=800",
-      "prepTime": 20,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Mini tortillas",
-        "Beef",
-        "Cheese"
-      ],
-      "steps": [
-        "Cook filling",
-        "Wrap burritos",
-        "Serve"
-      ],
-      "garnish": "Salsa",
-      "premium": false
-    },
-    {
-      "id": "85",
-      "title": "Cheese Stuffed Bites",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=800",
-      "prepTime": 20,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Dough",
-        "Cheese"
-      ],
-      "steps": [
-        "Stuff dough with cheese",
-        "Bake or fry",
-        "Serve"
-      ],
-      "garnish": "Parsley",
-      "premium": false
-   },
-    {
-      "id": "86",
-      "title": "Chicken Flautas",
-      "category": "meals",
-      "image": "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?w=800",
-      "prepTime": 25,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Chicken",
-        "Corn tortillas",
-        "Oil",
-        "Salt"
-      ],
-      "steps": [
-        "Shred the cooked chicken",
-        "Fill tortillas with chicken",
-        "Roll tightly and fry until crispy",
-        "Serve hot"
-      ],
-      "garnish": "Lettuce and crema",
-      "premium": false
-    },
-    {
-      "id": "87",
-      "title": "Beef Tostadas",
-      "category": "meals",
-      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800",
-      "prepTime": 20,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Tostada shells",
-        "Ground beef",
-        "Lettuce",
-        "Cheese"
-      ],
-      "steps": [
-        "Cook the ground beef",
-        "Top tostadas with beef",
-        "Add lettuce and cheese",
-        "Serve immediately"
-      ],
-      "garnish": "Sour cream",
-      "premium": false
-    },
-    {
-      "id": "88",
-      "title": "Mexican Rice Bowl",
-      "category": "meals",
-      "image": "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?w=800",
-      "prepTime": 25,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Bowl",
-      "ingredients": [
-        "Rice",
-        "Beans",
-        "Chicken",
-        "Corn"
-      ],
-      "steps": [
-        "Cook the rice",
-        "Heat beans and chicken",
-        "Assemble everything in a bowl",
-        "Serve warm"
-      ],
-      "garnish": "Avocado slices",
-      "premium": false
-    },
-    {
-      "id": "89",
-      "title": "Chile Rellenos",
-      "category": "meals",
-      "image": "https://images.unsplash.com/photo-1601315488950-3b5047998b38?w=800",
-      "prepTime": 40,
-      "difficulty": "Medium",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Poblano peppers",
-        "Cheese",
-        "Eggs",
-        "Tomato sauce"
-      ],
-      "steps": [
-        "Roast and peel the peppers",
-        "Stuff with cheese",
-        "Coat and cook",
-        "Serve with tomato sauce"
-      ],
-      "garnish": "Fresh cilantro",
-      "premium": true
-    },
-    {
-      "id": "90",
-      "title": "Sopa de Fideo",
-      "category": "meals",
-      "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=800",
-      "prepTime": 20,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Bowl",
-      "ingredients": [
-        "Fideo pasta",
-        "Tomato sauce",
-        "Garlic",
-        "Broth"
-      ],
-      "steps": [
-        "Toast the pasta lightly",
-        "Add tomato sauce and broth",
-        "Simmer until tender",
-        "Serve hot"
-      ],
-      "garnish": "Cheese sprinkle",
-      "premium": false
-    },
-    {
-      "id": "91",
-      "title": "Watermelon Agua Fresca",
-      "category": "drinks",
-      "image": "https://images.unsplash.com/photo-1497534446932-c925b458314e?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Glass",
-      "ingredients": [
-        "Watermelon",
-        "Water",
-        "Sugar"
-      ],
-      "steps": [
-        "Blend the watermelon",
-        "Add water and sugar",
-        "Strain if desired",
-        "Serve cold"
-      ],
-      "garnish": "Watermelon wedge",
-      "premium": false
-    },
-    {
-      "id": "92",
-      "title": "Cinnamon Milk Drink",
-      "category": "drinks",
-      "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Mug",
-      "ingredients": [
-        "Milk",
-        "Cinnamon",
-        "Sugar"
-      ],
-      "steps": [
-        "Heat the milk",
-        "Add cinnamon and sugar",
-        "Stir well",
-        "Serve warm"
-      ],
-      "garnish": "Cinnamon powder",
-      "premium": false
-    },
-    {
-      "id": "93",
-      "title": "Vanilla Atole",
-      "category": "drinks",
-      "image": "https://images.unsplash.com/photo-1604909052743-94e838986d24?w=800",
-      "prepTime": 15,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Mug",
-      "ingredients": [
-        "Corn flour",
-        "Milk",
-        "Sugar",
-        "Vanilla"
-      ],
-      "steps": [
-        "Mix ingredients together",
-        "Heat slowly",
-        "Stir until thick",
-        "Serve hot"
-      ],
-      "garnish": "Vanilla dusting",
-      "premium": false
-    },
-    {
-      "id": "94",
-      "title": "Coconut Flan",
-      "category": "desserts",
-      "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800",
-      "prepTime": 45,
-      "difficulty": "Medium",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Eggs",
-        "Condensed milk",
-        "Coconut milk",
-        "Sugar"
-      ],
-      "steps": [
-        "Prepare caramel",
-        "Blend the filling ingredients",
-        "Bake in a water bath",
-        "Chill before serving"
-      ],
-      "garnish": "Toasted coconut",
-      "premium": true
-    },
-    {
-      "id": "95",
-      "title": "Mexican Cinnamon Cookies",
-      "category": "desserts",
-      "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=800",
-      "prepTime": 25,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Flour",
-        "Butter",
-        "Sugar",
-        "Cinnamon"
-      ],
-      "steps": [
-        "Mix the dough",
-        "Shape the cookies",
-        "Bake until golden",
-        "Cool and serve"
-      ],
-      "garnish": "Cinnamon sugar",
-      "premium": false
-    },
-    {
-      "id": "96",
-      "title": "Chocolate Cajeta Dip",
-      "category": "dips",
-      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Bowl",
-      "ingredients": [
-        "Cajeta",
-        "Chocolate",
-        "Cream"
-      ],
-      "steps": [
-        "Warm the cajeta",
-        "Mix in chocolate and cream",
-        "Stir until smooth",
-        "Serve"
-      ],
-      "garnish": "Chocolate drizzle",
-      "premium": false
-    },
-    {
-      "id": "97",
-      "title": "Corn and Cheese Dip",
-      "category": "dips",
-      "image": "https://images.unsplash.com/photo-1585238342028-4c8d5b8fbd9d?w=800",
-      "prepTime": 15,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Bowl",
-      "ingredients": [
-        "Corn",
-        "Cheese",
-        "Cream",
-        "Salt"
-      ],
-      "steps": [
-        "Cook the corn",
-        "Mix with cheese and cream",
-        "Heat gently",
-        "Serve warm"
-      ],
-      "garnish": "Chili powder",
-      "premium": false
-    },
-    {
-      "id": "98",
-      "title": "Chili Lime Peanuts",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1508747703725-719777637510?w=800",
-      "prepTime": 10,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Bowl",
-      "ingredients": [
-        "Peanuts",
-        "Chili powder",
-        "Lime juice",
-        "Salt"
-      ],
-      "steps": [
-        "Place peanuts in a bowl",
-        "Add chili powder and salt",
-        "Drizzle with lime juice",
-        "Mix and serve"
-      ],
-      "garnish": "Extra lime zest",
-      "premium": false
-    },
-    {
-      "id": "99",
-      "title": "Mini Elote Cups",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1505253716362-afaea6fc1233?w=800",
-      "prepTime": 15,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Cup",
-      "ingredients": [
-        "Corn",
-        "Mayo",
-        "Cheese",
-        "Chili powder"
-      ],
-      "steps": [
-        "Cook the corn",
-        "Mix with mayo and cheese",
-        "Add chili powder",
-        "Serve in cups"
-      ],
-      "garnish": "Lime juice",
-      "premium": false
-    },
-    {
-      "id": "100",
-      "title": "Mexican Party Bites",
-      "category": "snacks",
-      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=800",
-      "prepTime": 20,
-      "difficulty": "Easy",
-      "alcoholContent": "None",
-      "glassType": "Plate",
-      "ingredients": [
-        "Mini tortillas",
-        "Cheese",
-        "Beans",
-        "Salsa"
-      ],
-      "steps": [
-        "Top mini tortillas with beans and cheese",
-        "Bake until warm",
-        "Add salsa",
-        "Serve immediately"
-      ],
-      "garnish": "Cilantro",
-      "premium": false
+{
+  "id": "77",
+  "title": "Mexican Donuts",
+  "category": "desserts",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/77.png",
+  "prepTime": 30,
+  "difficulty": "Medium",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Flour",
+    "Sugar",
+    "Eggs",
+    "Oil"
+  ],
+  "steps": [
+    "Prepare dough",
+    "Shape donuts",
+    "Fry",
+    "Serve"
+  ],
+  "garnish": "Sugar coating",
+  "premium": true
+},
+{
+  "id": "78",
+  "title": "Mexican Sweet Bread",
+  "category": "desserts",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/78.png",
+  "prepTime": 45,
+  "difficulty": "Medium",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Flour",
+    "Sugar",
+    "Butter",
+    "Yeast"
+  ],
+  "steps": [
+    "Prepare dough",
+    "Bake bread",
+    "Cool",
+    "Serve"
+  ],
+  "garnish": "Sugar topping",
+  "premium": true
+},
+{
+  "id": "79",
+  "title": "Garlic Chili Dip",
+  "category": "dips",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/79.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Bowl",
+  "ingredients": [
+    "Chili",
+    "Garlic",
+    "Oil"
+  ],
+  "steps": [
+    "Blend ingredients",
+    "Adjust seasoning",
+    "Serve"
+  ],
+  "garnish": "Chili flakes",
+  "premium": false
+},
+{
+  "id": "80",
+  "title": "Avocado Cream Dip",
+  "category": "dips",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/80.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Bowl",
+  "ingredients": [
+    "Avocado",
+    "Cream",
+    "Salt"
+  ],
+  "steps": [
+    "Blend ingredients",
+    "Chill",
+    "Serve"
+  ],
+  "garnish": "Cilantro",
+  "premium": false
+},
+{
+  "id": "81",
+  "title": "Mexican Crackers",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/81.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Crackers",
+    "Chili powder",
+    "Lime"
+  ],
+  "steps": [
+    "Arrange crackers",
+    "Add chili and lime",
+    "Serve"
+  ],
+  "garnish": "Lime wedges",
+  "premium": false
+},
+{
+  "id": "82",
+  "title": "Mexican Fries",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/82.png",
+  "prepTime": 20,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Potatoes",
+    "Oil",
+    "Chili powder"
+  ],
+  "steps": [
+    "Cut potatoes",
+    "Fry",
+    "Season",
+    "Serve"
+  ],
+  "garnish": "Cheese sauce",
+  "premium": false
+},
+{
+  "id": "83",
+  "title": "Spicy Corn Chips",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/83.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Corn chips",
+    "Chili powder",
+    "Lime"
+  ],
+  "steps": [
+    "Add seasoning",
+    "Mix well",
+    "Serve"
+  ],
+  "garnish": "Lime juice",
+  "premium": false
+},
+{
+  "id": "84",
+  "title": "Mexican Mini Burritos",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/84.png",
+  "prepTime": 20,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Mini tortillas",
+    "Beef",
+    "Cheese"
+  ],
+  "steps": [
+    "Cook filling",
+    "Wrap burritos",
+    "Serve"
+  ],
+  "garnish": "Salsa",
+  "premium": false
+},
+{
+  "id": "85",
+  "title": "Cheese Stuffed Bites",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/85.png",
+  "prepTime": 20,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Dough",
+    "Cheese"
+  ],
+  "steps": [
+    "Stuff dough with cheese",
+    "Bake or fry",
+    "Serve"
+  ],
+  "garnish": "Parsley",
+  "premium": false
+},
+{
+  "id": "86",
+  "title": "Chicken Flautas",
+  "category": "meals",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/86.png",
+  "prepTime": 25,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Chicken",
+    "Corn tortillas",
+    "Oil",
+    "Salt"
+  ],
+  "steps": [
+    "Shred the cooked chicken",
+    "Fill tortillas with chicken",
+    "Roll tightly and fry until crispy",
+    "Serve hot"
+  ],
+  "garnish": "Lettuce and crema",
+  "premium": false
+},
+{
+  "id": "87",
+  "title": "Beef Tostadas",
+  "category": "meals",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/87.png",
+  "prepTime": 20,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Tostada shells",
+    "Ground beef",
+    "Lettuce",
+    "Cheese"
+  ],
+  "steps": [
+    "Cook the ground beef",
+    "Top tostadas with beef",
+    "Add lettuce and cheese",
+    "Serve immediately"
+  ],
+  "garnish": "Sour cream",
+  "premium": false
+},
+{
+  "id": "88",
+  "title": "Mexican Rice Bowl",
+  "category": "meals",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/88.png",
+  "prepTime": 25,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Bowl",
+  "ingredients": [
+    "Rice",
+    "Beans",
+    "Chicken",
+    "Corn"
+  ],
+  "steps": [
+    "Cook the rice",
+    "Heat beans and chicken",
+    "Assemble everything in a bowl",
+    "Serve warm"
+  ],
+  "garnish": "Avocado slices",
+  "premium": false
+},
+{
+  "id": "89",
+  "title": "Chile Rellenos",
+  "category": "meals",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/89.png",
+  "prepTime": 40,
+  "difficulty": "Medium",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Poblano peppers",
+    "Cheese",
+    "Eggs",
+    "Tomato sauce"
+  ],
+  "steps": [
+    "Roast and peel the peppers",
+    "Stuff with cheese",
+    "Coat and cook",
+    "Serve with tomato sauce"
+  ],
+  "garnish": "Fresh cilantro",
+  "premium": true
+},
+{
+  "id": "90",
+  "title": "Sopa de Fideo",
+  "category": "meals",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/90.png",
+  "prepTime": 20,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Bowl",
+  "ingredients": [
+    "Fideo pasta",
+    "Tomato sauce",
+    "Garlic",
+    "Broth"
+  ],
+  "steps": [
+    "Toast the pasta lightly",
+    "Add tomato sauce and broth",
+    "Simmer until tender",
+    "Serve hot"
+  ],
+  "garnish": "Cheese sprinkle",
+  "premium": false
+},
+{
+  "id": "91",
+  "title": "Watermelon Agua Fresca",
+  "category": "drinks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/91.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Glass",
+  "ingredients": [
+    "Watermelon",
+    "Water",
+    "Sugar"
+  ],
+  "steps": [
+    "Blend the watermelon",
+    "Add water and sugar",
+    "Strain if desired",
+    "Serve cold"
+  ],
+  "garnish": "Watermelon wedge",
+  "premium": false
+},
+{
+  "id": "92",
+  "title": "Cinnamon Milk Drink",
+  "category": "drinks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/92.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Mug",
+  "ingredients": [
+    "Milk",
+    "Cinnamon",
+    "Sugar"
+  ],
+  "steps": [
+    "Heat the milk",
+    "Add cinnamon and sugar",
+    "Stir well",
+    "Serve warm"
+  ],
+  "garnish": "Cinnamon powder",
+  "premium": false
+},
+{
+  "id": "93",
+  "title": "Vanilla Atole",
+  "category": "drinks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/93.png",
+  "prepTime": 15,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Mug",
+  "ingredients": [
+    "Corn flour",
+    "Milk",
+    "Sugar",
+    "Vanilla"
+  ],
+  "steps": [
+    "Mix ingredients together",
+    "Heat slowly",
+    "Stir until thick",
+    "Serve hot"
+  ],
+  "garnish": "Vanilla dusting",
+  "premium": false
+},
+{
+  "id": "94",
+  "title": "Coconut Flan",
+  "category": "desserts",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/94.png",
+  "prepTime": 45,
+  "difficulty": "Medium",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Eggs",
+    "Condensed milk",
+    "Coconut milk",
+    "Sugar"
+  ],
+  "steps": [
+    "Prepare caramel",
+    "Blend the filling ingredients",
+    "Bake in a water bath",
+    "Chill before serving"
+  ],
+  "garnish": "Toasted coconut",
+  "premium": true
+},
+{
+  "id": "95",
+  "title": "Mexican Cinnamon Cookies",
+  "category": "desserts",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/95.png",
+  "prepTime": 25,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Flour",
+    "Butter",
+    "Sugar",
+    "Cinnamon"
+  ],
+  "steps": [
+    "Mix the dough",
+    "Shape the cookies",
+    "Bake until golden",
+    "Cool and serve"
+  ],
+  "garnish": "Cinnamon sugar",
+  "premium": false
+},
+{
+  "id": "96",
+  "title": "Chocolate Cajeta Dip",
+  "category": "dips",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/96.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Bowl",
+  "ingredients": [
+    "Cajeta",
+    "Chocolate",
+    "Cream"
+  ],
+  "steps": [
+    "Warm the cajeta",
+    "Mix in chocolate and cream",
+    "Stir until smooth",
+    "Serve"
+  ],
+  "garnish": "Chocolate drizzle",
+  "premium": false
+},
+{
+  "id": "97",
+  "title": "Corn and Cheese Dip",
+  "category": "dips",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/97.png",
+  "prepTime": 15,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Bowl",
+  "ingredients": [
+    "Corn",
+    "Cheese",
+    "Cream",
+    "Salt"
+  ],
+  "steps": [
+    "Cook the corn",
+    "Mix with cheese and cream",
+    "Heat gently",
+    "Serve warm"
+  ],
+  "garnish": "Chili powder",
+  "premium": false
+},
+{
+  "id": "98",
+  "title": "Chili Lime Peanuts",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/98.png",
+  "prepTime": 10,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Bowl",
+  "ingredients": [
+    "Peanuts",
+    "Chili powder",
+    "Lime juice",
+    "Salt"
+  ],
+  "steps": [
+    "Place peanuts in a bowl",
+    "Add chili powder and salt",
+    "Drizzle with lime juice",
+    "Mix and serve"
+  ],
+  "garnish": "Extra lime zest",
+  "premium": false
+},
+{
+  "id": "99",
+  "title": "Mini Elote Cups",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/99.png",
+  "prepTime": 15,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Cup",
+  "ingredients": [
+    "Corn",
+    "Mayo",
+    "Cheese",
+    "Chili powder"
+  ],
+  "steps": [
+    "Cook the corn",
+    "Mix with mayo and cheese",
+    "Add chili powder",
+    "Serve in cups"
+  ],
+  "garnish": "Lime juice",
+  "premium": false
+},
+{
+  "id": "100",
+  "title": "Mexican Party Bites",
+  "category": "snacks",
+  "image": "https://raw.githubusercontent.com/appsyplatdev/Mexican-Recipes-Cooking-App/refs/heads/main/images/100.png",
+  "prepTime": 20,
+  "difficulty": "Easy",
+  "alcoholContent": "None",
+  "glassType": "Plate",
+  "ingredients": [
+    "Mini tortillas",
+    "Cheese",
+    "Beans",
+    "Salsa"
+  ],
+  "steps": [
+    "Top mini tortillas with beans and cheese",
+    "Bake until warm",
+    "Add salsa",
+    "Serve immediately"
+  ],
+  "garnish": "Cilantro",
+  "premium": false
+}
     }
   ]
 }
